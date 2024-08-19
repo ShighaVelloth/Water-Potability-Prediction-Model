@@ -7,12 +7,21 @@ Even when there is no pollution present, the water quality of rivers and lakes v
 
 ## Limits desirable for potable water:
 •	Recommend limit of pH for potable water is 6.5 to 8.5.
+
 •	Hardness is mainly caused by calcium and magnesium salts.
+
 •	Total dissolved solids desirable limit is between 500 mg/L and 1000 mg/L.
+
 •	Chloramine levels up to 4 mg/L or 4 ppm are considered safe. 
+
 •	Sulphate ranges from 3 to 30 mg/L in most freshwater supplies. 
+
 •	Electrical conductivity value should not exceed 400 μS/cm.
+
 •	Organic carbon-According to US EPA < 2 mg/L as TOC in treated drinking water.
+
 •	Trihalomethane levels up to 80 ppm is considered safe in drinking water.
+
 •	Turbidity depends on the quantity\n of solid matter present in the suspended state.
+
 
