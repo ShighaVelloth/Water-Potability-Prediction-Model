@@ -24,4 +24,8 @@ Even when there is no pollution present, the water quality of rivers and lakes v
 
 •	Turbidity depends on the quantity\n of solid matter present in the suspended state.
 
+### Machine Learning Algorithms:
+* **Parametric Algorithm**
+* **Non-Parametric Algorithm**
+
 
