@@ -3,7 +3,7 @@ The chemical, physical, and biological content of water is used to describe wate
 Even when there is no pollution present, the water quality of rivers and lakes varies with the seasons and geographical locations. A single metric cannot be used to define good water quality. For instance, water that complies with drinking water standards can be used for irrigation, but irrigation water may not. Guidelines for water quality give fundamental scientific knowledge about water quality parameters and ecologically applicable toxicological threshold values to safeguard certain water uses.
 
 
-## Limits desirable for potable water:
+### Limits desirable for potable water:
 •	Recommend limit of pH for potable water is 6.5 to 8.5.
 
 •	Hardness is mainly caused by calcium and magnesium salts.
